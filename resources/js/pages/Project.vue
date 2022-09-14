@@ -6,6 +6,8 @@
   >
   <h1>project</h1>
  </transition>
+ <img src="../images/beauty.jpg" title="background" style="width:200px;height:100px">
+ <img src="../images/luqmaan.png" title="background" style="width:200px;height:100px">
  <img src="../images/background.jpeg" title="background" style="width:200px;height:100px">
 <section class=" p-4 rounded-3 shadow" style="min-height: 100px">
     <slot />
